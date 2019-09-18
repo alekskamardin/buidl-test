@@ -50,6 +50,8 @@ export default {
     display: flex;
     align-items: center;
     width: 100%;
+    min-height: 22px;
+    margin-top: 10px;
   }
   &__title {
     width: 100%;
@@ -62,13 +64,13 @@ export default {
     width: 100%;
     align-items: flex-start;
     justify-content: flex-start;
+    min-height: 18px;
   }
   &__element {
     display: flex;
     width: -webkit-fill-available;
     white-space: nowrap;
     overflow: hidden;
-    min-height: 18px;
     margin: 5px;
     white-space: nowrap;
     text-overflow: ellipsis;
