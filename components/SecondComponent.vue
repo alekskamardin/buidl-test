@@ -80,7 +80,6 @@ export default {
     overflow: hidden;
     &_scrollable {
       overflow-y: scroll;
-      margin-left: 17px;
     }
     @media (max-width: 410px) {
       margin-left: 0;

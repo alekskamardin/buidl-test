@@ -68,6 +68,7 @@ export default {
     width: -webkit-fill-available;
     white-space: nowrap;
     overflow: hidden;
+    min-height: 18px;
     margin: 5px;
     white-space: nowrap;
     text-overflow: ellipsis;

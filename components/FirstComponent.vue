@@ -134,7 +134,6 @@ export default {
   height: 88vh;
   &_scrollable {
     overflow-y: scroll !important;
-    margin-left: 17px !important;
   }
   @media (max-width: 410px) {
     margin: 0 !important;
